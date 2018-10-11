@@ -1,0 +1,21 @@
+- UML Fundamentals
+- Advanced Object Oriented Analysis of Hard Problems using UML (philosophy, etc.)
+- Business Process Modelling with UML Activity Diagrams & BPMN
+- Algorithms and Software Engineering for Professionals (bubble sort, etc.)
+
+- Software Engineering : Master Software Engineering in C# (bubble sort, etc.)
+
+API in C#: The Best Practices of Design and Implementation
+* Software Design: Functional Programming in C#
+SOLID Software Architecture: Complete Guide with Coding Examples
+Software Architecture: Meta and SOLID Principles in C#
+
+Angular Crash Course for Busy Developers
+Ultimate Angular 5 with TypeScript and Bootstrap 4
+Git for Geeks: Quick Git Training for Developers
+
+Entity Framework in Depth: The Complete Guide
+
+Basic Statistics for Engineers
+
+Date and Time fundamentals in SQL Server
