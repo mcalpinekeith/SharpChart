@@ -19,3 +19,8 @@ Entity Framework in Depth: The Complete Guide
 Basic Statistics for Engineers
 
 Date and Time fundamentals in SQL Server
+
+cd ClientApp/src/app
+ng g component test
+ng g directive test
+ng g service test
